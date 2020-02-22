@@ -1,1 +1,1 @@
-The static content exported by portfolio-code, to be displayed on <https://dausp.github.io/>.
+The static content exported by [portfolio-code](https://github.com/dausp/portfolio-code), to be displayed on <https://dausp.github.io/>.
